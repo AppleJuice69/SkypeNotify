@@ -1,20 +1,21 @@
 # SkypeNotify
 SkypeNotify is a service that allows you to send notifications to authorized
-users on Skype. This is library allows you to integrate this service with your
+users on Skype. This library allows you to integrate SkypeNotify with your
 applications. This library provides functionality to send messages to authorized
 users, as well provide a basic callback library that allows you to register
 hooks to various actions (ie: user authorization.)
 
 To get started with SkypeNotify, register an account at: http://skypenotify.com/
 
-**NOTICE** This library is **not an official** SkypeNotify library.
+**NOTICE** This library is **not an official** SkypeNotify library and is noway
+involved nor sponsored by Skype or Microsoft or its partners.
 
-## Requirements ##
+## Requirements
 Requires PHP 5.4.x or greater.
 
-## Examples ##
+## Examples
 Examples of sending messages, checking users, and an example callback listener
-is provided in the example directory:
+is provided in the examples directory:
 
 https://github.com/AppleJuice69/SkypeNotify/tree/master/examples
 
