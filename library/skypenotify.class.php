@@ -15,7 +15,7 @@ class SkypeNotify
 	 *
 	 * @const API_URL
 	 */
-	const     API_URL = "http://185.62.189.17/skypenotifications/api.php";
+	const     API_URL = "http://skypenotify.com/api.php";
 
 	/**
 	 * The private API key
